@@ -1,0 +1,24 @@
+# Arquivos gerados pelo Eclipse
+.metadata/
+.project
+.classpath
+.settings/
+
+# Pastas e arquivos de compilação
+bin/
+*.class
+
+# Arquivos e diretórios de dependências
+lib/
+target/
+
+# Arquivos e pastas do Visual Studio Code
+.vscode/
+launch.json
+settings.json
+
+# Arquivos específicos do macOS
+.DS_Store
+
+# Arquivos específicos do Windows
+Thumbs.db
